@@ -4,8 +4,6 @@ draft = false
 title = 'Big O is lying to you. CPU cacheline is all that matter'
 +++
 
-# Big O is lying to you. CPU cacheline is all that matter
-
 เคยสงสัยไหมครับว่าทำไม algorithm บางตัวถึงรันได้เร็วกว่าอีกอัน แม้จริงๆมันจะมี big o ที่แย่กว่า
 
 ## Introduction
