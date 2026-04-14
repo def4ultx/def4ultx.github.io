@@ -22,7 +22,7 @@ We generally have a mental model of CPU with L1/L2/L3 cache, ram and cost of the
 
 The cost of accessing memory in different level is dramatically increase the further away you go from the CPU (as shown in the diagram below).
 
-This is especially noticable when a CPU cache miss occurs and the CPU have fetch data from slower level.
+This is especially noticable when a CPU cache miss occurs and the CPU has to fetch data from slower level.
 
 Some data structures that don't access data sequentially are particularly affected:
 - Linkedlist that required pointer chasing
