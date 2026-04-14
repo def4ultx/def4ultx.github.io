@@ -2,3 +2,13 @@ baseURL = 'https://def4ultx.fyi/'
 locale = 'en-us'
 title = 'def4ultx page'
 theme = 'PaperMod'
+
+[languages.en]
+languageName = 'English'
+weight = 1
+contentDir = 'content/en'
+
+[languages.th]
+languageName = 'ไทย'
+weight = 2
+contentDir = 'content/th'
